@@ -1,0 +1,21 @@
+{
+  "latest_version_code": 16,
+  "latest_version_name": "2.3.1",
+
+  "min_version_code": 0,
+
+  "title": "Update available",
+  "message": "A new version of Zenryu Toolkit is ready.",
+  "whats_new": [
+    "Fixed a startup crash on some devices",
+    "Stability improvements"
+  ],
+
+  "update_url": "https://play.google.com/store/apps/details?id=com.santoryu.tools",
+
+  "maintenance": {
+    "enabled": false,
+    "title": "Under maintenance",
+    "message": "We are fixing something on our side. Please try again shortly."
+  }
+}
