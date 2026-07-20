@@ -6,13 +6,16 @@
 
   "title": "Update available",
   "message": "A new version of Zenryu Toolkit is ready.",
-  "whats_new": [],
+  "whats_new": [
+    "Fixed a startup crash on some devices",
+    "Stability improvements"
+  ],
 
   "update_url": "https://play.google.com/store/apps/details?id=com.santoryu.tools",
 
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "Under maintenance",
-    "message": "We are updating the skin servers. Applying is paused for about 30 minutes. Nothing on your device was changed."
+    "message": "We are fixing something on our side. Please try again shortly."
   }
 }
