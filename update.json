@@ -2,19 +2,17 @@
   "latest_version_code": 17,
   "latest_version_name": "2.9",
 
-  "min_version_code": 17,
+  "min_version_code": 0,
 
-  "title": "Update required",
-  "message": "This version has a bug that can corrupt applied skins. Update to keep using Zenryu Toolkit.",
-  "whats_new": [
-    "Fixes a crash that could damage applied skins"
-  ],
+  "title": "Update available",
+  "message": "A new version of Zenryu Toolkit is ready.",
+  "whats_new": [],
 
   "update_url": "https://play.google.com/store/apps/details?id=com.santoryu.tools",
 
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Under maintenance",
-    "message": "We are fixing something on our side. Please try again shortly."
+    "message": "We are updating the skin servers. Applying is paused for about 30 minutes. Nothing on your device was changed."
   }
 }
